@@ -1,0 +1,17 @@
+body {
+    justify-content: center;
+    align-items: center;
+}
+main {
+    background-image: url("/fondo1.jpg");
+    background-position: center;
+    background-repeat: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    box-shadow: rgb(0, 0, 0);
+    height: 90%;
+    width: auto;
+}
+.img{
+    border-radius: 25px;
+}
